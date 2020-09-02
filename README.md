@@ -1,2 +1,2 @@
 # Car-Manufacturer-Price
-# Using Machine Learning algorithms such as Decision Trees to predict Car Manufacturer Retail Price
+# Using Machine Learning algorithms such as the Decision Tree algorithm to predict Car Manufacturer Retail Price
