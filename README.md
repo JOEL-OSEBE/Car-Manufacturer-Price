@@ -1,2 +1,1 @@
-# Cae-Manufacturer-Price
-Prediction of car manufacturer price
+# Some examples of Feature Engineering techniques
